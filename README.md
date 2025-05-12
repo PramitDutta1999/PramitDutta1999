@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PramitDutta1999
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on any types of machine learning deployment project
+- 👀 I’m interested in Multimodal Learning
+- 🌱 I’m currently learning Vision Language Model
+- 💞️ I’m looking to collaborate on any types of Model Driven Approach Research
 - 📫 How to reach me pramitduttaanik@gmail.com
 
 <!---
