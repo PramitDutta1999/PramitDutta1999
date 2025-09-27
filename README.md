@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pramit Dutta
-- 🎓 MASc Engineering Student | Research Assistant, AI-Enabled Medical Imaging Lab
+- 🎓 MASc Engineering Student | Research Assistant, AI-Enabled Medical Image Analysis Lab
 - 🔍 Research Interests: Multimodal Learning, Vision-Language Models, AI in Healthcare
 - 🧠 Current Focus: Developing deep learning models that integrate visual and textual data for enhanced clinical decision support
 - 🤝 Open to Collaborations: Model-driven research in healthcare AI, cross-modal learning, and explainable machine learning
